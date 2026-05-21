@@ -23,4 +23,4 @@
 ## 📊 GitHub Stats
 ![Krishnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishnavagrawal&show_icons=true&theme=tokyonight)
 
-📫 Reach me: krishnav161105@gmail.com | [LinkedIn](https://linkedin.com/in/krishnavagrawal)
+📫 Reach me: krishnav161105@gmail.com | [LinkedIn](https://www.linkedin.com/in/krishnav-agrawal/)
